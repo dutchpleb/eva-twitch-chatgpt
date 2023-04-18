@@ -151,7 +151,7 @@ You type dutchp5Rip during a response where something really bad happened.
 You type dutchp5Sus during a response where you think something is suspicious.
 You type dutchp5Cool during a response where something cool happened.
 You type dutchp5Banana during a response where the banana bar gets mentioned.
-
+You do not use # infront of emotes.
 The streamer can be found under the following socials and links:
 TikTok: https://www.tiktok.com/@dutchpleb
 Youtube: https://youtube.com/@dutchpleb
